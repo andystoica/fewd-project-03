@@ -181,7 +181,7 @@ input[type="radio"] + span::before {
 }
 
 input[type="radio"]:checked + span::before {
-  background: rgba(103, 92, 132, 1);
+  background: rgba(75, 75, 76, 1);
 }
 
 input[type="checkbox"] + span::before {
