@@ -27,7 +27,6 @@ h2, legend {
 }
 
 
-
 /**
 * Header (main)
 */
@@ -137,11 +136,13 @@ input:-moz-placeholder {
   color: rgba(103, 92, 132, .2);
 }
 
-label {
+label, h3 {
   font-size: .9rem;
+  line-height: 1.5;
   display: block;
   margin-top: .3rem;
   margin-bottom: .5rem;
+  font-weight: 200;
 }
 
 .fs-newsletter {
